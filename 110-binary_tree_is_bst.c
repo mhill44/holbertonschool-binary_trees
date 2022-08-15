@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+#include <limits.h>
 int find_min(const binary_tree_t *tree);
 int find_max(const binary_tree_t *tree);
 
